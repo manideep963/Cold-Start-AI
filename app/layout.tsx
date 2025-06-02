@@ -27,7 +27,8 @@ export const metadata = {
     "freelancer cold pitch generator",
     "Next.js chat app",
     "open source outreach tool",
-    "AI for freelancers"
+    "AI for freelancers",
+    "manideep"
   ],
   authors: [
     {
